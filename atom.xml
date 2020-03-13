@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ObservatoryX</title>
+  <title>ObservatoryX 天文觀測站</title>
   
-  <subtitle>天文观测站</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://observatoryx.github.io/"/>
