@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://observatoryx.github.io/"/>
-  <updated>2020-07-06T03:12:25.359Z</updated>
+  <updated>2020-12-27T05:56:21.175Z</updated>
   <id>https://observatoryx.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020 年终总结</title>
+    <link href="https://observatoryx.github.io/2020/12/27/2020-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    <id>https://observatoryx.github.io/2020/12/27/2020-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</id>
+    <published>2020-12-26T16:12:37.000Z</published>
+    <updated>2020-12-27T05:56:21.175Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>不知不觉，一下子就到了 2020 年年末了，距离上一次发博文应该都是七个多月前的事情了，没想到年终总结成为了今年下半年的第一篇博文。时隔太久，我寻思着也该充实一下这个小站了，顺便梳理一下这飞逝的一年。</p><h2 id="Coronavirus-Pandemic"><a href="#Coronavirus-Pandemic" class="headerlink" title="Coronavirus Pandemic"></a>Coronavirus Pandemic</h2><p>今年一月，COVID-19 就在大陆地区爆发了，我自然就只能呆在家里，<del>本来两周的寒假直接变成了四个月</del>，当然学校还是让我们 WFH，呃，应该叫做 SFH（Study from home）。</p><p>上了几个月的网课，早已习得摸鱼划水的技巧，所以在五月多回学校时考试成绩自然好不到哪里去。</p><h2 id="图书馆的宣传片"><a href="#图书馆的宣传片" class="headerlink" title="图书馆的宣传片"></a>图书馆的宣传片</h2><p>我在去年下半年成为了图书馆的管理员，在年关的时候老师找到我希望我帮他们策划、拍摄、剪辑一个学校图书馆的宣传片。<br>因为当时我也在了解影视制作的知识，答应了下来，结果正好因为疫情的关系回不到学校，这件事也就没有了后文。</p><p>在疫情之后学校的图书馆也关停了小半年，我自然也就顺理成章地把这件事抛在脑后了。但是现在倒觉得有点遗憾，毕竟完成这个项目也算是 2020 年的新年愿望之一吧。</p><h2 id="NHSMUN"><a href="#NHSMUN" class="headerlink" title="NHSMUN"></a>NHSMUN</h2><p>八月初的时候参加了在珠海的一次模拟联合国大会，在去的前几天为了赶 DR 是好几天的作业都没写，而且这场会议在前期也是十分波折，几度调整席位，本来是两个委员会联动的会议直接被砍掉一半。</p><p>在到那边开会的时候更是身心俱疲，没有一天晚上不是熬到三四点才睡，文书工作量实在是太大，<del>还有好多代表不干正事天天摸鱼</del> ，虽然感觉付出还挺多，但身体实在是扛不住，发言太少，最后也没能混到一个 Best deligate 或者荣誉提名，仅仅是在会场上被主席团表扬了一下。</p><p>我校模联社去参会的人还挺多的，有好几个都获得了荣誉提名，虽然我觉得拿奖并不是我极度渴求的，但总归有点遗憾吧，毕竟这一场会是我高中的退模会了。</p><h2 id="Upcoming-CEE"><a href="#Upcoming-CEE" class="headerlink" title="Upcoming CEE"></a>Upcoming CEE</h2><p>高三学生自然会关心高考，我在写下这篇博文之时，目标是武汉大学的计算机类专业，考虑这所学校主要是因为地理位置的优越性和在那里有想见的人，但看到历年的分数确实很高，加之周围的同学都很<em>谦虚</em>，我对自己能否做到还是心存疑虑。但对于明年的高考总体来说我还是持一个乐观的态度，一轮复习已经让我的成绩有大幅提升了。</p><h2 id="疾病"><a href="#疾病" class="headerlink" title="疾病"></a>疾病</h2><p>令我失望的是，Scoliosis 的病情并没有好转，反而有点加重，cobb 角在腰部增大到了二十多度，这已经是三年前的水平了，但我还能说什么呢？只能说我自己的康复训练强度太低了罢。</p><p>从八月份起我就是个高三学生了，但学习压力的增大和学校一些令人作呕的 policies 引起了我生理上的不适，再加上其他奇奇怪怪的因素，我觉得有必要去心理精神科走一趟了，奈何我挂号时确实有点智商捉急，再配上学校的神仙安排，我到现在也没能去一趟医院。</p><h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>理论上年终总结这种博文我应该在一年的最后一天发布，可惜 12 月 31 日我在学校，没有办法把博文 deploy 到博客上。<br>而且半年多没写过博文，还花了二十多分钟复习了一遍 Markdown 语法和 Hexo 的命令。</p><p>感觉今年过得很快，不仅仅是因为疫情的原因，总体来看这一年过得不算令人沮丧，但总觉得遗憾太多，回顾去年写下的新年愿望，<strong>发现一个也没有达成</strong>。而且看到越来越多的新闻在暗示这个世界似乎并不会在向好的方向进展。</p><p>本来还想写更多，但写下这篇已是在匆忙之中，明年再会吧！下一篇博文也是。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Android 手机在国内实现非接触式公共交通服务扣费的一种解决方案</title>
